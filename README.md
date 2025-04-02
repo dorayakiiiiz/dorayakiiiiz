@@ -1,5 +1,3 @@
 ```sh
-xin chào  
-tớ là Dora  
-và tớ là một người bình thường
+just a normal person
 ```
