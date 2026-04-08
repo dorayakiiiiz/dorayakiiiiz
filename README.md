@@ -52,14 +52,15 @@
 
 *Feel free to explore my repositories below to see my code quality and commit history!*
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dorayakiiiiz&show_icons=true&theme=tokyonight&hide_border=true" alt="dorayakiiiiz's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dorayakiiiiz&theme=tokyonight&hide_border=true" alt="dorayakiiiiz's GitHub Streak" width="48%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorayakiiiiz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+[![dorayakiiiiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorayakiiiiz&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)](https://github.com/dorayakiiiiz)
+
+[![dorayakiiiiz's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dorayakiiiiz&theme=tokyonight&hide_border=true)](https://github.com/dorayakiiiiz)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dorayakiiiiz&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)](https://github.com/dorayakiiiiz)
+
+</div>
 
 ---
 
